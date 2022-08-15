@@ -21,3 +21,5 @@ Mac OS:
 
 1: pip3 install PyQt5
 2: pip install pyqt5-tools
+
+![Screenshot_1](https://user-images.githubusercontent.com/108320639/184593290-9ba89450-cce2-4a6e-9df4-8d545f50d42c.png)
